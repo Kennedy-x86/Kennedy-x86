@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kennedy-github
-- 👀 I’m interested in software dev. 
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on any project that focuses on learning c++
+- 👋 Hi, I’m @kennedy_x86
+- 👀 I’m a computer science student. 
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on any project that focuses on learning C
 - 📫 How to reach me : kayceeonyii@gmail.com
 
 <!---
