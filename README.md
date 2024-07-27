@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kennedy_x86
+- 👋 Hi, I’m @kennedy-x86
 - 👀 I’m a computer science student. 
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on any project that focuses on learning C
