@@ -37,3 +37,5 @@ I’m Kennedy Onyema-Willys, a **Computer Science student at the University of N
 ---
 
 "Be a thinker, a doer, and always stay ahead of the game." 🚀
+
+![Kennedy-x86's Stats](https://github-readme-stats.vercel.app/api?username=Kennedy-x86&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
